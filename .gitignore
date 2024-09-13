@@ -13,3 +13,11 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
+
+# plugin
+jekyll-last-modified-at
+
+#temp files
+.*.un~
+
+*.pdf

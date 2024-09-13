@@ -17,7 +17,7 @@ To link to another note, you can use multiple syntaxes. The following four use t
 
 You can organize notes in subdirectories and link them normally. For example, the links above all point to the `_notes/animals/cats.md` file. Here's another example: [[tigers]].
 
-Non-latin languages are supported: [[안녕하세요]]; so are accents/diacritics: [[bon appétit!]]
+Non-latin languages are supported: [[你好]]; so are accents/diacritics: [[bon appétit!]]
 
 Dashes and underscores in file names are supported, and may be omitted in the bracket link syntax. As an example, the `your-first-note.md` file can be linked to with [[your first note]] or [[your-first-note]], or even [[yOuR-FiRsT Note]].
 
@@ -66,7 +66,7 @@ Notice in the "Notes mentioning this note" section that there is another note li
 
 ### Link previews
 
-If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [[a note about cats]].
+If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [[consistency]].
 
 Links that have been previewed will be cached to avoid redundant requests.
 
@@ -90,7 +90,8 @@ If you'd like to quote other people, consider using quote blocks:
 
 And of course, images look great:
 
-<img src="{{ site.baseurl }}/assets/image.jpg"/>
+<img src="{{ site.baseurl }}/assets/img/640.webp"/>
+![上海镜像](640.webp)
 
 You can also ==highlight some content== by wrapping it with `==`.
 
@@ -117,7 +118,38 @@ end
 $ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
 ```
 
+```c
+#include <stdio.h>
+void main() {
+  printf("hello world\n")
+}
+```
 
+```python
+def make_parser():
+    parser = argparse.ArgumentParser("onnxruntime inference sample")
+    parser.add_argument(
+        "-i",
+        "--image_path",
+        type=str,
+        default="./test.mp4",
+        help="path to your input image or video.",
+    )
+```
+
+```verilog
+module alu(a, b, cin, select, out, carry, zero); 
+  input [7:0] a, b;
+  input cin;
+  input [2:0] select;
+  output [7:0] out;
+  output carry, zero;
+
+  reg [7:0] out;
+  reg carry;
+
+endmodule
+```
 ### Next steps
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
