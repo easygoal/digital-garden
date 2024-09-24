@@ -14,6 +14,8 @@ function which($cmd) {
 ```
 
 ## Mount Linux xfs disk
+Use [[scoop 软件包|scoop]] to install sudo pkg
+
 ```sh
 ### In PowerShell with admin permission
 ### Identify disk

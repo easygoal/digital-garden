@@ -39,11 +39,12 @@ scoop bucket add extras https://gitee.com/scoop-bucket/extras.git
 
 ## 常用软件
 ```sh
-scoop install 7zip btop cmake ffmpeg grep gdu git git-lfs
+scoop install 7zip btop cmake cwrsync grep gdu git git-lfs sudo
 scoop install openssh uutils-coreutils vim wget winget
-scoop install q-dir musicbee everything coretemp
+scoop install q-dir everything coretemp
 scoop install v2rayn vscode snipaste
-scoop install w64devkit
+scoop install w64devkit hwinfo lxrunoffline ctags
+scoop install mpc-hc-fork ffmpeg musicbee
 ```
 
 [[your-first-note|Back to Main]]
