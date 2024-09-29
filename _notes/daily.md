@@ -17,6 +17,9 @@ title: daily
 - [Xilinx PetaLinux Reference Guide](https://docs.amd.com/r/en-US/ug1144-petalinux-tools-reference-guide)
 - [国际象棋动态](https://mp.weixin.qq.com/s/ZZvH56hPg2N9lisYLduAKg)
 
+### 2024-09-26
+- [IPTV](https://github.com/ngo5/IPTV)
+
 ### 2024-xx-xx
 
 [[your-first-note|Back to Main]]
