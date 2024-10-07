@@ -19,6 +19,7 @@ title: daily
 
 ### 2024-09-26
 - [IPTV](https://github.com/ngo5/IPTV)
+- [TVBox接口说明](https://zhuanlan.zhihu.com/p/705935217)
 
 ### 2024-xx-xx
 
