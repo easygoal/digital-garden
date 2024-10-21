@@ -28,5 +28,13 @@ Week 41
 <img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w41.png"/>
 ![W41](lunch-24-w41.png)
 
+Week 42
+<img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w42.webp"/>
+![W42](lunch-24-w42.webp)
+
+Week 43
+<img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w43.webp"/>
+![W42](lunch-24-w43.webp)
+
 [[your-first-note|Back to Main]]
 

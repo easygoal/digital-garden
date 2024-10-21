@@ -21,6 +21,23 @@ title: daily
 - [IPTV](https://github.com/ngo5/IPTV)
 - [TVBox接口说明](https://zhuanlan.zhihu.com/p/705935217)
 
+### 2024-10-08
+- [tsukimi](https://github.com/tsukinaha/tsukimi)
+- [AList-TvBox](https://github.com/power721/alist-tvbox/blob/master/doc/README_zh.md)
+
+### 2024-10-11
+- [bilibili plugin](https://github.com/chen310/plugin.video.bili)
+- [Hivision ID Photos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+
+### 2024-10-17
+- [Windows Activation](https://massgrave.dev/)
+- [RK3588](https://wiki.friendlyelec.com/wiki/index.php/CM3588)
+
+### 2024-10-18
+- [RK3588 linux](https://wiki.t-firefly.com/zh_CN/ROC-RK3588-PC/linux_compile.html)
+- [SMART AM60](https://www.smarttech.com/education/products/accessories/appliance-modules)
+- [显卡vBIOS提取](https://foxi.buduanwang.vip/virtualization/pve/1602.html)
+
 ### 2024-xx-xx
 
 [[your-first-note|Back to Main]]

@@ -29,6 +29,9 @@ scoop install xxx
 scoop install xxx@1.0
 scoop uninstall xxx
 
+scoop status       ## check updatable apps
+scoop cleanup xxx  ## remove old version
+
 ### bucket command
 scoop bucket add versions
 scoop bucket add dorado https://github.com/chawyehsu/dorado
@@ -45,6 +48,7 @@ scoop install q-dir everything coretemp
 scoop install v2rayn vscode snipaste
 scoop install w64devkit hwinfo lxrunoffline ctags
 scoop install mpc-hc-fork ffmpeg musicbee
+scoop install xmedia-recode fancontrol tsukimi
 ```
 
 [[your-first-note|Back to Main]]

@@ -2,11 +2,11 @@
 title: Docker Mirror
 ---
 
-## 国内镜像加速列表(by 20240910)
-| DockerHub 镜像仓库            | 是否正常 |
-| ------------------------- | ---- |
-| docker.registry.cyou      | 正常   |
-| docker-cf.registry.cyou   | 正常   |
+## 国内镜像加速列表(by 20241010)
+```
+| DockerHub 镜像仓库        | 是否正常 |
+| ------------------------- | ------ |
+| docker.fxxk.dedyn.io      | 正常   |
 | dockerpull.com            | 正常   |
 | dockerproxy.cn            | 正常   |
 | docker.1panel.live        | 正常   |
@@ -15,7 +15,6 @@ title: Docker Mirror
 | docker.hlyun.org          | 正常   |
 | docker.kejilion.pro       | 正常   |
 | registry.dockermirror.com | 正常   |
-| docker.mrxn.net           | 正常   |
 | docker.chenby.cn          | 正常   |
 | ccr.ccs.tencentyun.com    | 正常   |
 | hub.littlediary.cn        | 正常   |
@@ -34,6 +33,10 @@ title: Docker Mirror
 | lynn520.xyz               | 正常   |
 | doublezonline.cloud       | 正常   |
 | dockerproxy.com           | 正常   |
+| docker.registry.cyou      | ----   |
+| docker-cf.registry.cyou   | ----   |
+| docker.mrxn.net           | ----   |
+```
 
 ### 临时使用
 直接使用，直接拿镜像域名拼接上官方镜像名，例如要拉去镜像yidadaa/chatgpt-next-web，可以用下面写法
