@@ -24,4 +24,16 @@ title: Build Linux
 
 在实际操作中，这些步骤可能涉及到交叉编译环境的设置，以及对特定硬件平台的配置。构建完成后，你会得到U-Boot二进制文件、内核映像和根文件系统镜像，这些需要被烧录或复制到相应的存储介质上，以便在目标硬件上运行。
 
+# Reference
+
+[ARM64 启动过程之一：内核第一个脚印](http://www.wowotech.net/armv8a_arch/arm64_initialize_1.html)
+[ARM64 启动过程之二：创建页表](http://www.wowotech.net/armv8a_arch/create_page_tables.html)
+[ARM64 启动过程之三：CPU 初始化](http://www.wowotech.net/armv8a_arch/__cpu_setup.html)
+[ARM64 启动过程之四：打开 MMU](http://www.wowotech.net/armv8a_arch/turn-on-mmu.html)
+[ARM64 启动过程之五：UEFI](http://www.wowotech.net/armv8a_arch/UEFI.html)
+[ARM64 启动过程之六：异常向量表](http://www.wowotech.net/armv8a_arch/238.html)
+
+[QEMU 搭建 ARM vexpress 开发环境 1](https://mshrimp.github.io/2019/08/11/Qemu%E6%90%AD%E5%BB%BAARM-vexpress%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83(%E4%B8%80)/)
+[QEMU 搭建 ARM vexpress 开发环境 2](https://mshrimp.github.io/2019/08/18/Qemu%E6%90%AD%E5%BB%BAARM-vexpress%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83(%E4%BA%8C)----u-boot%E5%90%AF%E5%8A%A8kernel/)
+
 [[your-first-note|Back to Main]]

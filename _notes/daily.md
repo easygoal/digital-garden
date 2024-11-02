@@ -38,6 +38,12 @@ title: daily
 - [SMART AM60](https://www.smarttech.com/education/products/accessories/appliance-modules)
 - [显卡vBIOS提取](https://foxi.buduanwang.vip/virtualization/pve/1602.html)
 
+### 2024-10-21
+- [Awesom ADB](https://github.com/mzlogin/awesome-adb)
+- [数学可视化](https://zhuanlan.zhihu.com/c_1041689010053341184)
+- [天玑9400](https://www.bilibili.com/video/BV17D2NYTEgn)
+- [骁龙8至尊](https://www.bilibili.com/video/BV1fMyLYZE1n)
+
 ### 2024-xx-xx
 
 [[your-first-note|Back to Main]]

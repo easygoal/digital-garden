@@ -12,6 +12,11 @@ function which($cmd) {
   Get-Command $cmd | Select-Object -ExpandProperty Definition
 }
 ```
+### rename
+[Rename-Item](https://learn.microsoft.com/zh-cn/powershell/module/Microsoft.PowerShell.Management/rename-item?view=powershell-7.4)
+```bash
+ls *.* | ren -NewName { $_.Name -replace 'ALL','All' }
+```
 
 ## Mount Linux xfs disk
 Use [[scoop 软件包|scoop]] to install sudo pkg

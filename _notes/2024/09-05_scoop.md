@@ -51,4 +51,13 @@ scoop install mpc-hc-fork ffmpeg musicbee
 scoop install xmedia-recode fancontrol tsukimi
 ```
 
+## FAQ
+### GIMP install workaround
+```sh
+scoop bucket add versions
+scoop uninstall innounp
+scoop install innounp-unicode
+scoop install gimp
+```
+
 [[your-first-note|Back to Main]]
