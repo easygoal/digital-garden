@@ -44,6 +44,13 @@ title: daily
 - [天玑9400](https://www.bilibili.com/video/BV17D2NYTEgn)
 - [骁龙8至尊](https://www.bilibili.com/video/BV1fMyLYZE1n)
 
+### 2024-11-06
+- [USB-PD 充电协议](https://zhuanlan.zhihu.com/p/627860996)
+- [Windows Chisel 环境](https://clo91eaf.github.io/84aafbdfa005/)
+- [Chisel example](https://zhuanlan.zhihu.com/p/642588946)
+- [mpv 非官方手册](https://hooke007.github.io/unofficial/mpv_start.html)
+
+
 ### 2024-xx-xx
 
 [[your-first-note|Back to Main]]

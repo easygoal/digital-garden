@@ -40,6 +40,17 @@ Week 44
 <img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w44.webp"/>
 ![W44](lunch-24-w44.webp)
 
+Week 45
+<img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w45.jfif"/>
+![W45](lunch-24-w45.jfif)
+
+Week 46
+<img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w46.webp"/>
+![W46](lunch-24-w46.webp)
+
+Week 47
+<img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w47.webp"/>
+![W47](lunch-24-w47.webp)
 
 [[your-first-note|Back to Main]]
 

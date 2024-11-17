@@ -43,7 +43,7 @@ scoop bucket add extras https://gitee.com/scoop-bucket/extras.git
 ## 常用软件
 ```sh
 scoop install 7zip btop cmake cwrsync grep gdu git git-lfs sudo
-scoop install openssh uutils-coreutils vim wget winget
+scoop install openssh findutils uutils-coreutils vim wget winget
 scoop install q-dir everything coretemp
 scoop install v2rayn vscode snipaste
 scoop install w64devkit hwinfo lxrunoffline ctags
@@ -59,5 +59,7 @@ scoop uninstall innounp
 scoop install innounp-unicode
 scoop install gimp
 ```
+
+For more information, please refer to [[scoop-dev]]
 
 [[your-first-note|Back to Main]]
