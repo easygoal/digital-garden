@@ -49,6 +49,7 @@ scoop install v2rayn vscode snipaste
 scoop install w64devkit hwinfo lxrunoffline ctags
 scoop install mpc-hc-fork ffmpeg musicbee
 scoop install xmedia-recode fancontrol tsukimi
+scoop install mill oss-cad-suite-nightly
 ```
 
 ## FAQ

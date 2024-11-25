@@ -50,6 +50,11 @@ title: daily
 - [Chisel example](https://zhuanlan.zhihu.com/p/642588946)
 - [mpv 非官方手册](https://hooke007.github.io/unofficial/mpv_start.html)
 
+### 2024-11-22
+- [资料整理：可以学习 1W 小时的 PCIe](https://zhuanlan.zhihu.com/p/447134701)
+- [NAS 电视源](https://github.com/Guovin/TV/blob/master/CHANGELOG.md)
+- [Docker Android](https://github.com/budtmo/docker-android)
+
 
 ### 2024-xx-xx
 

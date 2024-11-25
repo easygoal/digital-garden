@@ -52,5 +52,9 @@ Week 47
 <img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w47.webp"/>
 ![W47](lunch-24-w47.webp)
 
+Week 48
+<img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w48.webp"/>
+![W48](lunch-24-w48.webp)
+
 [[your-first-note|Back to Main]]
 
