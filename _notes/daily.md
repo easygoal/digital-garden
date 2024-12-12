@@ -55,6 +55,11 @@ title: daily
 - [NAS 电视源](https://github.com/Guovin/TV/blob/master/CHANGELOG.md)
 - [Docker Android](https://github.com/budtmo/docker-android)
 
+### 2024-12-05
+- [JoyVASA](https://github.com/jdh-algo/JoyVASA)
+- [MinerU](https://github.com/opendatalab/MinerU)
+- [MagicQuill](https://github.com/magic-quill/magicquill)
+- [PLLaVA](https://github.com/magic-research/PLLaVA)
 
 ### 2024-xx-xx
 
