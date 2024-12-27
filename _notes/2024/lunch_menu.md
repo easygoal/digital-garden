@@ -65,5 +65,15 @@ Week 50
 ![W50](lunch-24-w50.webp)
 [新普陀小学第十五周菜单（12.9-12.13）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653206651&idx=2&sn=3204fd5a6b8d4bfa01d38d46cedc0ee4&chksm=815d73a532dfcb25ec98dcd76a837ccfec4fb4bbc5d8612edbc91229ecddfc88ad2ad4dafbe9&xtrack=1&scene=0&subscene=10000&sessionid=1733711869&clicktime=1733711958&enterid=1733711958&ascene=7&fasttmpl_type=0&fasttmpl_fullversion=7502977-en_US-zip&fasttmpl_flag=0&realreporttime=1733711958275&devicetype=android-33&version=2800363d&nettype=cbnet&abtest_cookie=AAACAA%3D%3D&lang=en&session_us=gh_d3b0b79fb296&countrycode=CN&exportkey=n_ChQIAhIQ5CjMrW2TRgaTS1JXJu%2BnNhLZAQIE97dBBAEAAAAAAALRMnRcf5wAAAAOpnltbLcz9gKNyK89dVj0HLbgOEC7pueJQc4lR9U9pSR9ST2B%2FN5dU8msCAlShjKKL%2FWooXwYVC2YkdL%2Fd6qxw0wPzq7kZQqYftCBsH%2FzZxWKhHJiq7eqKBH5LTwm2U5ILgML7xBSpkf7ujBq9XAF317W1t4Sl7w1ugp%2Bxpt7RDJ9ONvyfYNHdSblRU1OzlsBr5SZrGuqmuiNujxbW8L0B3mQdyw0cDkAqtBLsREeZHr0mSGRMQS0XHJTSQyn42L6NSo%3D&pass_ticket=U3TAoG6GNUJPbtSgZQXYe1a9MaQlch9Ubka6isvEgXpsn1zUtFsOTvdXRM1v%2FerJ&wx_header=3)
 
-[[your-first-note|Back to Main]]
+Week 51
+<img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w51.webp"/>
+![W51](lunch-24-w51.webp)
+[新普陀小学第十六周菜单（12.16-12.20）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653207922&idx=1&sn=5a43c6b4f1f9156760a17bf677888b2b&chksm=817337cf957a5df996dde6391137278bfa5bfec2d799cd4c7b9a38787b294ff8c709d3a4bacb&xtrack=1&scene=0&subscene=10000&sessionid=1734312749&clicktime=1734312762&enterid=1734312762&ascene=7&fasttmpl_type=0&fasttmpl_fullversion=7512981-en_US-zip&fasttmpl_flag=0&realreporttime=1734312762684&devicetype=android-33&version=2800363f&nettype=cbnet&abtest_cookie=AAACAA%3D%3D&lang=en&session_us=gh_d3b0b79fb296&countrycode=CN&exportkey=n_ChQIAhIQzLzpyd3O0JJ%2F0VPMO8qV9RLjAQIE97dBBAEAAAAAABFNL8zc5AEAAAAOpnltbLcz9gKNyK89dVj0BbEbnouyDFejfvQjtISAwROzT6Vy%2FZ6dV3zALiw6NxWW2bhUrb%2Fq%2BoDQ0twXoNUuRT5BfJxcbGFVJK%2FAYj18UoDxMYIZhIzd7gSQQhiFsGrhyyyhEf8qqHHwBvt%2FmDkG3%2FcB1%2FdVMjrSpDApL6Fr51HuUiCPzw3h%2FvFQBDnHD0AiBFZWMoc5RJ4HSPET%2FJrzfxg05Vm2O1dTc0XLb8g7N5LCtBE744PRdQ6DwYOccpSZ2%2BdTnYF2DACoFFbM&pass_ticket=COiYm84qE87p6xGLUyoT4%2FEYGNRxl4E6r55iasqOeNm4nAP%2FvLA7ir%2FGcEUKePn6&wx_header=3)
 
+Week 52
+<img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w52.webp"/>
+![W52](lunch-24-w52.webp)
+[新普陀小学第十七周菜单（12.23-12.27）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653208033&idx=1&sn=9ad7483e72a869872a05131f0df25578&chksm=819dc58b3556bf5893adecb63c74c584d3bc5de1fff012543ba7b3f36b3cadf788bfb5a32741&xtrack=1&scene=0&subscene=10000&sessionid=1734879824&clicktime=1734880661&enterid=1734880661&ascene=7&fasttmpl_type=0&fasttmpl_fullversion=7521716-en_US-zip&fasttmpl_flag=0&realreporttime=1734880661660&devicetype=android-33&version=28003653&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&session_us=gh_d3b0b79fb296&countrycode=CN&exportkey=n_ChQIAhIQzwwWRZoWPXe3y7cM%2BLkRMBLjAQIE97dBBAEAAAAAAGoCF1D4OgsAAAAOpnltbLcz9gKNyK89dVj0Y%2BMlQOEiJfy7AgJnU9LEfMxCaE%2F%2Fhj1h5Ylt%2F1xgev%2B6v00N0SI9wfwI0hUon6BjieiE%2F4pDOtFMNh9BTAjpw2l3tMNADHni7oQP%2FgaQt6tA00ymCxEPVdtvWBZ0jOY6jpVbnPdk6KoUB87uEW9pe8%2F4rzORgcfDYi%2F07ndd8C9h%2Bm6BmUyCyQ6REs4xU%2FR2oylskSE0k6y%2BRIxu9U71JHMjK7Wa1saA58MMB3K3ul9zejLItThfzWLNaOor&pass_ticket=MF2rT5c676zbMJo4E4oVlkQl0uVd2x9i2l36GiQDO%2F1OO60KPJ%2FgdfcMSGF4axYF&wx_header=3)
+
+
+[[your-first-note|Back to Main]]

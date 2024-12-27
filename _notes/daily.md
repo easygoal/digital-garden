@@ -61,6 +61,14 @@ title: daily
 - [MagicQuill](https://github.com/magic-quill/magicquill)
 - [PLLaVA](https://github.com/magic-research/PLLaVA)
 
+### 2024-12-26
+- 
+- [IPTV sources](https://laosu.gq/2024/12/26/%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E7%9A%84IPTV%E6%BA%90iptv-sources/)
+- [IPTV 检查工具](https://laosu.tech/2024/12/19/IPTV%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8%E5%8F%AF%E7%94%A8%E6%80%A7%E6%A3%80%E6%9F%A5%E5%B7%A5%E5%85%B7iptv-checker)
+- [Web IPTV](https://laosu.tech/2024/11/28/Web%E7%89%88IPTV%E6%92%AD%E6%94%BE%E5%99%A8streamdock)
+- [PDF translate](https://laosu.tech/2024/12/23/%E5%BC%80%E6%BA%90PDF%E7%BF%BB%E8%AF%91%E5%B7%A5%E5%85%B7PDFMathTranslate/)
+- [Docker镜像转存阿里云](https://laosu.gq/2024/10/14/Docker%E9%95%9C%E5%83%8F%E8%BD%AC%E5%AD%98%E5%88%B0%E9%98%BF%E9%87%8C%E4%BA%91%E7%A7%81%E6%9C%89%E4%BB%93%E5%BA%93/)
+
 ### 2024-xx-xx
 
 [[your-first-note|Back to Main]]
