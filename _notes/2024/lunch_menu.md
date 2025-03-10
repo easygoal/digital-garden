@@ -1,6 +1,8 @@
 ---
-title: Lunch Menu
+title: Lunch Menu 2024
 ---
+
+[[Lunch Menu 2025|Lunch Menu 2025]]
 
 ## 2024
 
@@ -75,5 +77,9 @@ Week 52
 ![W52](lunch-24-w52.webp)
 [新普陀小学第十七周菜单（12.23-12.27）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653208033&idx=1&sn=9ad7483e72a869872a05131f0df25578&chksm=819dc58b3556bf5893adecb63c74c584d3bc5de1fff012543ba7b3f36b3cadf788bfb5a32741&xtrack=1&scene=0&subscene=10000&sessionid=1734879824&clicktime=1734880661&enterid=1734880661&ascene=7&fasttmpl_type=0&fasttmpl_fullversion=7521716-en_US-zip&fasttmpl_flag=0&realreporttime=1734880661660&devicetype=android-33&version=28003653&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&session_us=gh_d3b0b79fb296&countrycode=CN&exportkey=n_ChQIAhIQzwwWRZoWPXe3y7cM%2BLkRMBLjAQIE97dBBAEAAAAAAGoCF1D4OgsAAAAOpnltbLcz9gKNyK89dVj0Y%2BMlQOEiJfy7AgJnU9LEfMxCaE%2F%2Fhj1h5Ylt%2F1xgev%2B6v00N0SI9wfwI0hUon6BjieiE%2F4pDOtFMNh9BTAjpw2l3tMNADHni7oQP%2FgaQt6tA00ymCxEPVdtvWBZ0jOY6jpVbnPdk6KoUB87uEW9pe8%2F4rzORgcfDYi%2F07ndd8C9h%2Bm6BmUyCyQ6REs4xU%2FR2oylskSE0k6y%2BRIxu9U71JHMjK7Wa1saA58MMB3K3ul9zejLItThfzWLNaOor&pass_ticket=MF2rT5c676zbMJo4E4oVlkQl0uVd2x9i2l36GiQDO%2F1OO60KPJ%2FgdfcMSGF4axYF&wx_header=3)
 
+Week 53/1
+<img src="{{ site.baseurl }}/assets/img/2024/lunch-24-w53.webp"/>
+![W53](lunch-24-w53.webp)
+[新普陀小学第十八周菜单（12.30-1.3）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653209683&idx=2&sn=2b9878ff8b172566e916b07a8d4ab8e6&chksm=811c9f7613f13c13da239e98956fe26db3439acb5778afc0e6094d282286743e2529cd660d7c&xtrack=1&scene=0&subscene=7&sessionid=1735526724&clicktime=1735526742&enterid=1735526742&ascene=7&fasttmpl_type=0&fasttmpl_fullversion=7533076-en_US-zip&fasttmpl_flag=0&realreporttime=1735526742666&devicetype=android-33&version=28003737&nettype=cbnet&abtest_cookie=AAACAA%3D%3D&lang=en&session_us=gh_d3b0b79fb296&countrycode=CN&exportkey=n_ChQIAhIQqg%2BODTcDOAKOortWAXnB%2BBLjAQIE97dBBAEAAAAAADnAIy%2FMgJoAAAAOpnltbLcz9gKNyK89dVj0x8JXBrCAgXD21nGKyR9iWEV9H%2BF8KaKbyKZfoPDH6JiLsxUOT%2BOR1MLOgUg054%2FSzvj9Zw1sbCyWi84I53syBzI6UPkJ07xjVYBF%2BUnq1oFGvepRODeMJLONC1h7ZTz%2BWMbUSg%2By8lGx2IFxzw0%2Fo%2FirQZdU%2BrhksOi%2FkEF0Jt4iM%2B%2F0O318sNKOsfgl8da3%2FmWWThdUCh6MxNbxaPrSmuSwoq1l27BkidTgkzOXJtDdioxCtqhLKkqTURVe&pass_ticket=kypTQ5JVaXjgFlkuSXDH47a%2BSx8F%2BGJCKxDAKvycz8WbSahhJWQ73gwUkL1bFrrf&wx_header=3)
 
 [[your-first-note|Back to Main]]

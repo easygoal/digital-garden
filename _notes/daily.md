@@ -62,13 +62,32 @@ title: daily
 - [PLLaVA](https://github.com/magic-research/PLLaVA)
 
 ### 2024-12-26
-- 
 - [IPTV sources](https://laosu.gq/2024/12/26/%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E7%9A%84IPTV%E6%BA%90iptv-sources/)
 - [IPTV 检查工具](https://laosu.tech/2024/12/19/IPTV%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8%E5%8F%AF%E7%94%A8%E6%80%A7%E6%A3%80%E6%9F%A5%E5%B7%A5%E5%85%B7iptv-checker)
 - [Web IPTV](https://laosu.tech/2024/11/28/Web%E7%89%88IPTV%E6%92%AD%E6%94%BE%E5%99%A8streamdock)
 - [PDF translate](https://laosu.tech/2024/12/23/%E5%BC%80%E6%BA%90PDF%E7%BF%BB%E8%AF%91%E5%B7%A5%E5%85%B7PDFMathTranslate/)
 - [Docker镜像转存阿里云](https://laosu.gq/2024/10/14/Docker%E9%95%9C%E5%83%8F%E8%BD%AC%E5%AD%98%E5%88%B0%E9%98%BF%E9%87%8C%E4%BA%91%E7%A7%81%E6%9C%89%E4%BB%93%E5%BA%93/)
 
-### 2024-xx-xx
+### 2025-01-04
+- [图解Transformer](https://blog.csdn.net/qq_36667170/article/details/124359818)
+- [Ilustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Hands on LLM](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN)
+- [论GPU的过去、现在和未来](https://blog.csdn.net/bumblexbee/article/details/136303115)
+- [OpenCelerity RISC-V SOC](http://opencelerity.org/)
+
+### 2025-01-10
+- [ChessCam](https://www.chesscam.net/)
+  - [github](https://github.com/Pbatch/CameraChessWeb)
+  - [Lichess](https://lichess.org/@/BlindfoldBlunderer/blog/free-tournament-broadcasting-with-chesscam/Fu8JZKEH)
+
+### 2025-02-17
+- [MIT Course: Hardware Architecture for Deep Learning](https://csg.csail.mit.edu/6.5930/index.html)
+  - [Chinese Video](https://www.bilibili.com/video/BV1vT421v7eQ/)
+
+### 2025-02-26
+- [Nvidia PTX ISA](https://docs.nvidia.com/cuda/pdf/ptx_isa_8.7.pdf)
+- [中国裁判文书网](https://wenshu.court.gov.cn/)
+- [NAS推荐软件](https://post.smzdm.com/p/a24mnm9p/)
+
 
 [[your-first-note|Back to Main]]
