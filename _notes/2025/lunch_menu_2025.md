@@ -38,6 +38,13 @@ Week 13
 ![W13](lunch-25-w13.webp)
 [新普陀小学第六周菜单（3.24-3.28）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653215948&idx=2&sn=ad76038bf63487c50dff9c3e6e30070b&chksm=813b38abf547ebae5621250cc523a866208d4c21cb8efc982d2fc6fd0f8bbab794aaf5bec022&xtrack=1&scene=0&subscene=7&sessionid=1742778435&clicktime=1742778481&enterid=1742778481&ascene=7&fasttmpl_type=0&fasttmpl_fullversion=7653845-zh_CN-zip&fasttmpl_flag=0&realreporttime=1742778481357&devicetype=android-35&version=28003833&nettype=cbnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_d3b0b79fb296&countrycode=CN&exportkey=n_ChQIAhIQ3Vm6b%2FMxvSP09aYKoF5i2xLmAQIE97dBBAEAAAAAAL1tFJzL27YAAAAOpnltbLcz9gKNyK89dVj0J5nIAihANRTlKLk3TD7KG%2Fe7GgQQPLsZ5wfp42Gy%2FcYh%2Bc7XNzOZRkH0VtwYaLLi6aSeJEV8u4SKPE%2FmgKuK6KUPx2H5%2BtiABFMsFzQm04jYuVHFvOYvyFsLITNo2rsIZgmRDncm60fTxYBqAkM7YH3lH9KO9d3ASTLh5gFYyDsqHGMN7tHUVm7q5Z58tdIZRsnUpwpKzpcjHjgrvouhENsV9fGalnNfmr%2FT%2F5WukAtPuSJh6adO%2BgfRuvP7aIpr&pass_ticket=b8sqG%2FjbBcFlz2%2FbwsbSzBRhkNeQDso1R5NsPax9Y%2FLJIhzgJmeFntOOioUtQ80S&wx_header=3&poc_token=HOGw4GejmRSk4TOGbNWHtADuwsejg4ZGgmbeaCKz)
 
+Week 14
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w14.webp"/>
+![W14](lunch-25-w14.webp)
+[新普陀小学第七周菜单（3.31-4.3）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653216568&idx=2&sn=363f1561cfadace9d514083061c882a8&chksm=8197917bf8658438920bab984429d2086a6137e8747f5697dfa0dd07110f07fe16835b41ffc3&xtrack=1&scene=0&subscene=7&sessionid=1743383800&clicktime=1743383839&enterid=1743383839&ascene=7&fasttmpl_type=0&fasttmpl_fullversion=7664258-zh_CN-zip&fasttmpl_flag=0&realreporttime=1743383839896)
+
+
+
 
 [[Lunch Menu 2024|Lunch Menu 2024]]
 
