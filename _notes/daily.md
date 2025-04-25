@@ -89,5 +89,13 @@ title: daily
 - [中国裁判文书网](https://wenshu.court.gov.cn/)
 - [NAS推荐软件](https://post.smzdm.com/p/a24mnm9p/)
 
+### 2025-04
+- [PyStand](https://github.com/skywind3000/PyStand)
+- [xmake](https://github.com/xmake-io/xmake/blob/dev/README_zh.md)
+- [Digital IDE](https://nc-ai.cn/article/cxnqr517/)
+- [appteka](https://pan.quark.cn/s/32ac198b53ae)
+- [Lucky 使用指南](https://lucky666.cn/docs/intro)
+- [酷家乐](https://b.kujiale.com/product/brick-design)
+
 
 [[your-first-note|Back to Main]]
