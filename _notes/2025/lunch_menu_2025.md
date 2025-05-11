@@ -58,6 +58,20 @@ Week 17
 ![W17](lunch-25-w17.webp)
 [新普陀小学第十周菜单（4.21-4.25）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653222193&idx=1&sn=36ea4cf66cea9762eb86f24fabf58cbe&chksm=8169f3186188be415a12962743e99db8a4eaeab9af6ddfe31e94233d963b101e0099aac02ed5)
 
+Week 18
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w18.webp"/>
+![W18](lunch-25-w18.webp)
+[新普陀小学第十一周菜单（4.27-4.30）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653222612&idx=1&sn=63c5178055ba9ed4f57bc514dec11c93&chksm=8192111421e4eeb155208e5d84aaf7205f3ffcccf0a99491bc217465298cb1c1fe7c3642258f)
+
+Week 19
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w19.webp"/>
+![W19](lunch-25-w19.webp)
+[新普陀小学第十二周菜单（5.6-5.9）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653223252&idx=2&sn=a3a8e38a8d7f325deee11ec1ed34f872&chksm=81f862a36f20aa46d051c7a56677457c1398ccf67599db678fe0f0f28cbdcc2fb7b3d29628ac)
+
+Week 20 
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w20.webp"/>
+![W19](lunch-25-w19.webp)
+[新普陀小学第十三周菜单（5.12-5.16）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653224236&idx=2&sn=6220c1730d4a1f4544c56951af3495c8&chksm=81329df3fe02c80d587eb20322d8b34953a981a3a2634d3e0aa776177436e81272e4ffccfa6a)
 
 
 
