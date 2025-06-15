@@ -97,5 +97,15 @@ title: daily
 - [Lucky 使用指南](https://lucky666.cn/docs/intro)
 - [酷家乐](https://b.kujiale.com/product/brick-design)
 
+### 2025-05
+- [MetaTube](https://metatube-community.github.io/wiki/plugin-installation)
+- [docker port viewer](https://laosu.tech/2025/04/19/Docker%E5%BA%94%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%9F%A5%E7%9C%8B%E5%99%A8docker-port-viewer)
+- [OneNVR](https://laosu.tech/2025/04/16/%E8%BD%BB%E9%87%8F%E7%BA%A7%E7%9A%84%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%BD%95%E5%83%8F%E6%9C%BAOneNVR/)
+- [double-itv-plus](https://www.miandrui.com/blog/a_iptv_source_in_china/)
+- [easy-itv](https://laosu.tech/2025/03/26/%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8%E7%9A%84itv%E6%BA%90easy-itv)
+- [618-洗碗机选购](https://zhuanlan.zhihu.com/p/1905571164765529051)
+- Power shell指令：disable-mmagent -mc
+
+
 
 [[your-first-note|Back to Main]]
