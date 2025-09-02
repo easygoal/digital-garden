@@ -43,13 +43,17 @@ scoop bucket add extras https://gitee.com/scoop-bucket/extras.git
 ## 常用软件
 ```sh
 scoop install 7zip btop cmake cwrsync grep gdu git git-lfs sudo
-scoop install openssh findutils uutils-coreutils vim wget winget
+scoop install openssh findutils uutils-coreutils file which less sed
+scoop install touch cmake xmake dark innounp
+scoop install vim wget winget
 scoop install q-dir everything coretemp
 scoop install v2rayn vscode snipaste
-scoop install w64devkit hwinfo lxrunoffline ctags
-scoop install mpc-hc-fork ffmpeg musicbee
+scoop install w64devkit hwinfo lxrunoffline ctags rehex
+scoop install mpc-hc-fork ffmpeg musicbee genact
 scoop install xmedia-recode fancontrol tsukimi
-scoop install mill oss-cad-suite-nightly
+scoop install iverilog mill oss-cad-suite-nightly yosys
+scoop install faster-whisper-xxl
+scoop install gh meld
 ```
 
 ## FAQ

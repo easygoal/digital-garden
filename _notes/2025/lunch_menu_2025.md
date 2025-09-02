@@ -98,7 +98,10 @@ Week 25
 ![W25](lunch-25-w25.webp)
 [新普陀小学第十八周菜单（6.16-6.17）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653228690&idx=2&sn=41016a86766592543d81c7898a4df66b&chksm=816e2c9399b20a35e60f49760a2237ef39874b5b8884464a48773aa1937d784adbe0f3252b7f)
 
-
+Week 36
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w36.webp"/>
+![W36](lunch-25-w36.webp)
+[新普陀小学第一周菜单（9.1-9.5）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653234480&idx=2&sn=65d7ca24ea901ce2c9865263e0cee5a2&chksm=811ee000131cab49d7088b08a01ebef8a07ee87c755d7563619445d0dd041f0bb77c40a84f31)
 
 [[Lunch Menu 2024|Lunch Menu 2024]]
 

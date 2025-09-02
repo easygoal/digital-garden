@@ -80,11 +80,9 @@ title: daily
   - [github](https://github.com/Pbatch/CameraChessWeb)
   - [Lichess](https://lichess.org/@/BlindfoldBlunderer/blog/free-tournament-broadcasting-with-chesscam/Fu8JZKEH)
 
-### 2025-02-17
+### 2025-02
 - [MIT Course: Hardware Architecture for Deep Learning](https://csg.csail.mit.edu/6.5930/index.html)
-  - [Chinese Video](https://www.bilibili.com/video/BV1vT421v7eQ/)
-
-### 2025-02-26
+- [Chinese Video](https://www.bilibili.com/video/BV1vT421v7eQ/)
 - [Nvidia PTX ISA](https://docs.nvidia.com/cuda/pdf/ptx_isa_8.7.pdf)
 - [中国裁判文书网](https://wenshu.court.gov.cn/)
 - [NAS推荐软件](https://post.smzdm.com/p/a24mnm9p/)
@@ -106,6 +104,15 @@ title: daily
 - [618-洗碗机选购](https://zhuanlan.zhihu.com/p/1905571164765529051)
 - Power shell指令：disable-mmagent -mc
 
+### 2025-07
+- [IPTV](https://zhuanlan.zhihu.com/p/1924517018595461119)
+- [ChatDOC PDF to markdown](https://hf-mirror.com/ChatDOC/OCRFlux-3B)
+
+### 2025-08
+- [PhET科学模拟](https://phet.colorado.edu/)
+
+### 2025-09
+- [TOSA](https://github.com/jerryzhao173985/TOSA)
 
 
 [[your-first-note|Back to Main]]
