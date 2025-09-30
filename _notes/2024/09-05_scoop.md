@@ -45,7 +45,7 @@ scoop bucket add extras https://gitee.com/scoop-bucket/extras.git
 scoop install 7zip btop cmake cwrsync grep gdu git git-lfs sudo
 scoop install openssh findutils uutils-coreutils file which less sed
 scoop install touch cmake xmake dark innounp
-scoop install vim wget winget
+scoop install vim-tux wget winget msys2
 scoop install q-dir everything coretemp
 scoop install v2rayn vscode snipaste
 scoop install w64devkit hwinfo lxrunoffline ctags rehex
@@ -53,7 +53,9 @@ scoop install mpc-hc-fork ffmpeg musicbee genact
 scoop install xmedia-recode fancontrol tsukimi
 scoop install iverilog mill oss-cad-suite-nightly yosys
 scoop install faster-whisper-xxl
-scoop install gh meld
+scoop install gh meld imagemagick global
+scoop install msys2
+pip install img2pdf
 ```
 
 ## FAQ
@@ -63,6 +65,28 @@ scoop bucket add versions
 scoop uninstall innounp
 scoop install innounp-unicode
 scoop install gimp
+```
+
+### MSYS2
+change HOME directory to %USERPROFILE%
+```sh
+vim /etc/nsswitch.conf
+db_home: windows
+```
+
+add UCRT64 to windows terminal
+```sh
+command line: c:\Users\xxx\scoop\apps\msys2\current\msys2_shell.cmd -ucrt64 -defterm -no-start -here
+change home to %USERPROFILE%
+change ico file to ucrt64.ico
+```
+
+change mirror
+```sh
+vim /etc/pacman.d/mirrorlist.xxx
+
+pacman -Sy
+pacman -S <package name>
 ```
 
 For more information, please refer to [[scoop-dev]]

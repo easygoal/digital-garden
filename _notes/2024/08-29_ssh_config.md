@@ -144,3 +144,6 @@ PSSH 也可以把每个服务器的结果输出到不同的目录、可以单独
 ```bash
 $ man pssh
 ```
+
+
+[[your-first-note|Back to Main]]

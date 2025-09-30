@@ -113,6 +113,8 @@ title: daily
 
 ### 2025-09
 - [TOSA](https://github.com/jerryzhao173985/TOSA)
+- [gtags](https://zhuanlan.zhihu.com/p/36279445)
+- [ocr](https://dotsocr.xiaohongshu.com/)
 
 
 [[your-first-note|Back to Main]]

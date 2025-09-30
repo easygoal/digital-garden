@@ -91,7 +91,7 @@ Week 23
 Week 24 
 <img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w24.webp"/>
 ![W24](lunch-25-w24.webp)
-[新普陀小学第十七周菜单（6.9-6.13）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653228052&idx=1&sn=bb2f4ff16edc57a79c14c71b5b804ac3&chksm=81ff4929cf02b5558bb33f3db0096443d9772226ccc22f63bf928a0132900aa15fb9fcdb56c9)
+[新普陀小学第十七周菜单（6.9-6.13）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OhA==&mid=2653228052&idx=1&sn=bb2f4ff16edc57a79c14c71b5b804ac3&chksm=81ff4929cf02b5558bb33f3db0096443d9772226ccc22f63bf928a0132900aa15fb9fcdb56c9)
 
 Week 25 
 <img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w25.webp"/>
@@ -102,6 +102,30 @@ Week 36
 <img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w36.webp"/>
 ![W36](lunch-25-w36.webp)
 [新普陀小学第一周菜单（9.1-9.5）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653234480&idx=2&sn=65d7ca24ea901ce2c9865263e0cee5a2&chksm=811ee000131cab49d7088b08a01ebef8a07ee87c755d7563619445d0dd041f0bb77c40a84f31)
+
+Week 37
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w37.webp"/>
+![W37](lunch-25-w37.webp)
+[新普陀小学第二周菜单（9.8-9.12）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653236038&idx=1&sn=49ca006d05399f58af9273187cc41256&chksm=81bf2c3c4984a18ac47e6a2e0e6aaf197511de85ab6916596061300eb87331da47ece13accbd)
+
+Week 38
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w38.webp"/>
+![W38](lunch-25-w38.webp)
+[新普陀小学第三周菜单（9.15-9.19）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653236357&idx=1&sn=a9edd1336a43a914202c58865c84bdda&chksm=81657880042389493a8aa9959c2d027aa5ad6addb03904be0bb435795e64f10092e2f0b35f07)
+
+Week 39
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w39.webp"/>
+![W39](lunch-25-w39.webp)
+[新普陀小学第四周菜单（9.22-9.26）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653237064&idx=1&sn=09400b501088008db30ab503d9f67150&chksm=81daaaec3a32d9fae690ebd75b7f3cc6634fb9ffff0f002f165e6e5adaf4b630c77438505fc4)
+
+Week 40
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w40.webp"/>
+![W40](lunch-25-w40.webp)
+[新普陀小学第五周菜单（9.28-9.30）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653238847&idx=2&sn=be93c8041bc7a4ac82ed1f43946b81b3&chksm=81b46ee50b8d3faa1b6e9af8fdbf7b86a10871591268c4b565cb1f8411a576fa17202aefd04b)
+
+
+
+
 
 [[Lunch Menu 2024|Lunch Menu 2024]]
 
