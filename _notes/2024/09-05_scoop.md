@@ -45,7 +45,7 @@ scoop bucket add extras https://gitee.com/scoop-bucket/extras.git
 scoop install 7zip btop cmake cwrsync grep gdu git git-lfs sudo
 scoop install openssh findutils uutils-coreutils file which less sed
 scoop install touch cmake xmake dark innounp
-scoop install vim-tux wget winget msys2
+scoop install vim-tux wget winget msys2 nodejs-lts
 scoop install q-dir everything coretemp
 scoop install v2rayn vscode snipaste
 scoop install w64devkit hwinfo lxrunoffline ctags rehex
@@ -56,6 +56,8 @@ scoop install faster-whisper-xxl
 scoop install gh meld imagemagick global
 scoop install msys2
 pip install img2pdf
+pip install HwCodecDetect
+npm i wavedrom-cli -g
 ```
 
 ## FAQ

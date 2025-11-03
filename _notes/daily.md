@@ -116,5 +116,8 @@ title: daily
 - [gtags](https://zhuanlan.zhihu.com/p/36279445)
 - [ocr](https://dotsocr.xiaohongshu.com/)
 
+### 2025-10
+- [FastFlowLM](https://www.iruanp.com/posts/2025/run-llm-locally-with-amd-ryzen-npu/)
+
 
 [[your-first-note|Back to Main]]
