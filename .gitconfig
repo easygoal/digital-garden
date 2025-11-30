@@ -1,0 +1,7 @@
+[diff "zip"]
+    binary = true
+    textconv = unzip -c -a
+    cachetextconv = true
+    wordregex = <[^>]*>|
+[core]
+    attributesfile = .gitattributes

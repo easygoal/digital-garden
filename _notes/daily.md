@@ -119,5 +119,10 @@ title: daily
 ### 2025-10
 - [FastFlowLM](https://www.iruanp.com/posts/2025/run-llm-locally-with-amd-ryzen-npu/)
 
+### 2025-11
+- [Xilinx MLIR](https://github.com/Xilinx/mlir-aie/)
+- [Xilinx aie llvm](https://github.com/Xilinx/llvm-aie)
+- [Xilinx aie-ml hardware](https://docs.amd.com/r/en-US/am020-versal-aie-ml/Finding-Additional-Documentation)
+- [Trace tool](https://ui.perfetto.dev/)
 
 [[your-first-note|Back to Main]]

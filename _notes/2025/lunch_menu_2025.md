@@ -148,6 +148,27 @@ Week 45
 ![W45](lunch-25-w45.webp)
 [新普陀小学第十周菜单（11.3-11.7）](https://mp.weixin.qq.com/s?__biz=MzAxMzI0NzY3OA==&mid=2653241877&idx=1&sn=42a998548f3af5a6f59fdb39ca47fcee)
 
+Week 46
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w46.webp"/>
+![W46](lunch-25-w46.webp)
+[新普陀小学第十一周菜单（11.10-11.14）](https://mp.weixin.qq.com/s/ZdIHt2hbGbcOpTkuzEWYRw)
+
+Week 47
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w47.webp"/>
+![W47](lunch-25-w47.webp)
+[新普陀小学第十二周菜单（11.17-11.21）](https://mp.weixin.qq.com/s/ShGZVASqTyqisr_PgntxiA)
+
+Week 48
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w48.webp"/>
+![W48](lunch-25-w48.webp)
+[新普陀小学第十三周菜单（11.24-11.28）](https://mp.weixin.qq.com/s/L8pOnFWdP5uMotoAzyEDPw)
+
+Week 49
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w49.webp"/>
+![W49](lunch-25-w49.webp)
+[新普陀小学第十四周菜单（12.1-12.5）](https://mp.weixin.qq.com/s/pwVtugQg3QiwHqaiGueFnA)
+
+
 [[Lunch Menu 2024|Lunch Menu 2024]]
 
 [[your-first-note|Back to Main]]

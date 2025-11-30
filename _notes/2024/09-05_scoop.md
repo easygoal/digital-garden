@@ -57,6 +57,7 @@ scoop install gh meld imagemagick global
 scoop install msys2
 pip install img2pdf
 pip install HwCodecDetect
+pip install wavedrom
 npm i wavedrom-cli -g
 ```
 
