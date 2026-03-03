@@ -55,10 +55,15 @@ scoop install iverilog mill oss-cad-suite-nightly yosys
 scoop install faster-whisper-xxl
 scoop install gh meld imagemagick global
 scoop install msys2
+scoop install imageglass
 pip install img2pdf
 pip install HwCodecDetect
 pip install wavedrom
 npm i wavedrom-cli -g
+
+scoop install rustup
+set RUSTUP_DIST_SERVER=https://mirrors.tuna.tsinghua.edu.cn/rustup
+set RUSTUP_UPDATE_ROOT=https://mirrors.tuna.tsinghua.edu.cn/rustup
 ```
 
 ## FAQ

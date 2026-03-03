@@ -168,7 +168,27 @@ Week 49
 ![W49](lunch-25-w49.webp)
 [新普陀小学第十四周菜单（12.1-12.5）](https://mp.weixin.qq.com/s/pwVtugQg3QiwHqaiGueFnA)
 
+Week 50
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w50.webp"/>
+![W50](lunch-25-w50.webp)
+[新普陀小学第十五周菜单（12.8-12.12）](https://mp.weixin.qq.com/s/A_JgEb5Kn6r0wuo6iOHDQA)
+
+Week 51
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w51.webp"/>
+![W51](lunch-25-w51.webp)
+[新普陀小学第十六周菜单（12.15-12.19）](https://mp.weixin.qq.com/s/OnM9nMy05zhen6gYFexLiA)
+
+Week 52
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w52.webp"/>
+![W52](lunch-25-w52.webp)
+[新普陀小学第十七周菜单（12.22-12.26）](https://mp.weixin.qq.com/s/hn9Nv9qb37dHIbMFJ-4Zww)
+
+Week 53
+<img src="{{ site.baseurl }}/assets/img/2025/lunch-25-w53.webp"/>
+![W53](lunch-25-w53.webp)
+[新普陀小学第十八周菜单（12.29-1.4）](https://mp.weixin.qq.com/s/RNcmqUcfYstKjU3MyVnk_A)
 
 [[Lunch Menu 2024|Lunch Menu 2024]]
+[[Lunch Menu 2026|Lunch Menu 2026]]
 
 [[your-first-note|Back to Main]]

@@ -67,4 +67,28 @@ wget -r -c -nH -np -R "index.html*" [链接]/[文件夹]
 
 最后的文件夹路径，要以 / 结尾
 
+# 使用 ghostscript 将 PDF 转换为 图片
+```
+# 单页PDF转JPG（300DPI）
+gswin64c.exe -dNOPAUSE -sDEVICE=jpeg -r300 -sOutputFile=output-%d.jpg input.pdf -c quit
+
+# 转PNG（无损，适合高清）
+gswin64c.exe -dNOPAUSE -sDEVICE=png16m -r300 -sOutputFile=output-%d.png input.pdf -c quit
+
+# 转换第2-5页
+gswin64c.exe -dNOPAUSE -sDEVICE=jpeg -r300 -dFirstPage=2 -dLastPage=5 -sOutputFile=output-%d.jpg input.pdf -c quit
+```
+
+# 关闭常用Windows 后台服务
+按住 Win+R, 输入 services.msc, 关闭如下服务
+1. 连接用户体验和遥测服务（Connected User Experiences and Telemetry）
+2. Windows 搜索（ Windows Search）
+3. SysMain（曾用名 Superfetch）
+4. 打印后台处理程序 （Print Spooler）
+5. Windows 生物识别服务（Windows Biometric Service）
+6. 远程注册表 （Remote Registry）
+7. 程序兼容性助手服务（Program Compatibility Assistant Service）
+
+
+
 [[your-first-note|Back to Main]]

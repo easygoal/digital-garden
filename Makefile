@@ -7,3 +7,6 @@ exec:
 image:
 	docker build . -t hexo_test
 
+docker:
+	docker exec hexo sh -c "make -C digital-garden"
+

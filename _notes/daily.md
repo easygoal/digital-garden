@@ -125,4 +125,13 @@ title: daily
 - [Xilinx aie-ml hardware](https://docs.amd.com/r/en-US/am020-versal-aie-ml/Finding-Additional-Documentation)
 - [Trace tool](https://ui.perfetto.dev/)
 
+### 2025-12
+- [Virgo ASPLOS'25](https://zenodo.org/records/14835069)
+
+### 2026-02
+- [极客湾](https://pan.quark.cn/s/8d35e445caaf)
+- https://www.ispyconnect.com/zh-cn/download
+- https://post.smzdm.com/p/a0z64448/
+
+
 [[your-first-note|Back to Main]]
