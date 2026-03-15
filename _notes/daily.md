@@ -133,5 +133,7 @@ title: daily
 - https://www.ispyconnect.com/zh-cn/download
 - https://post.smzdm.com/p/a0z64448/
 
+### 2026-03
+- [AMD 8845HS](https://dreamscaperia.cn/1947/2025/05/23/%E5%9C%A8amd-8845hs%E4%B8%8A%E8%B7%91llm-slm%EF%BC%88%E5%9F%BA%E4%BA%8Enpu%EF%BC%89/)
 
 [[your-first-note|Back to Main]]
