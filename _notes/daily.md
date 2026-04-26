@@ -129,11 +129,16 @@ title: daily
 - [Virgo ASPLOS'25](https://zenodo.org/records/14835069)
 
 ### 2026-02
-- [极客湾](https://pan.quark.cn/s/8d35e445caaf)
-- https://www.ispyconnect.com/zh-cn/download
-- https://post.smzdm.com/p/a0z64448/
+- [极客湾手机测试被删除视频](https://pan.quark.cn/s/8d35e445caaf)
+- [ispy 视频监控软件](https://www.ispyconnect.com/zh-cn/download)
+- [飞牛NAS搭配EasyNVR，AgentDVR监控新体验](https://post.smzdm.com/p/a0z64448/)
 
 ### 2026-03
 - [AMD 8845HS](https://dreamscaperia.cn/1947/2025/05/23/%E5%9C%A8amd-8845hs%E4%B8%8A%E8%B7%91llm-slm%EF%BC%88%E5%9F%BA%E4%BA%8Enpu%EF%BC%89/)
+- [Free AI (Groq)](https://getfreeai.net/zh-cn/providers/groq/)
+- [编程农场](https://thefarmerwasreplaced.com/zh/tutorial/)
+
+### 2026-04
+- [Cloudflare 免费外网访问](https://zhuanlan.zhihu.com/p/2028027399862777347)
 
 [[your-first-note|Back to Main]]
