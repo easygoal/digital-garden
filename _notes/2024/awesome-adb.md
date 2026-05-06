@@ -1,7 +1,18 @@
 ---
 title: Awesome ADB
 ---
+
+## 酷开 K6 Ultra 进入 ADB
+1. 电视设置→关于本机→本机信息→按 “上、上、下、下、左、右、左、右” 进入工厂模式→开启 ADB 调试。
+2. 电脑安装 ADB 工具，与电视连同一局域网，获取电视 IP（设置→网络→网络信息）。
+3. 电脑执行命令：
+```bash
+adb connect 192.168.0.62
+adb install 路径/xxx.apk
+```
+
 [Original](https://github.com/mzlogin/awesome-adb)
+[termux-x11](https://github.com/termux/termux-x11)
 
 ADB，即 [Android Debug Bridge](https://developer.android.com/studio/command-line/adb.html)，它是 Android 开发/测试人员不可替代的强大工具，也是 Android 设备玩家的好玩具。
 
@@ -2637,3 +2648,4 @@ Otherwise check for a confirmation dialog on your device.
 * [像高手一样使用ADB命令行（2）](http://cabins.github.io/2016/03/25/UseAdbLikeAPro-2/)
 
 [1]: #ip-地址
+

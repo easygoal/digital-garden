@@ -80,14 +80,65 @@ title: daily
   - [github](https://github.com/Pbatch/CameraChessWeb)
   - [Lichess](https://lichess.org/@/BlindfoldBlunderer/blog/free-tournament-broadcasting-with-chesscam/Fu8JZKEH)
 
-### 2025-02-17
+### 2025-02
 - [MIT Course: Hardware Architecture for Deep Learning](https://csg.csail.mit.edu/6.5930/index.html)
-  - [Chinese Video](https://www.bilibili.com/video/BV1vT421v7eQ/)
-
-### 2025-02-26
+- [Chinese Video](https://www.bilibili.com/video/BV1vT421v7eQ/)
 - [Nvidia PTX ISA](https://docs.nvidia.com/cuda/pdf/ptx_isa_8.7.pdf)
 - [中国裁判文书网](https://wenshu.court.gov.cn/)
 - [NAS推荐软件](https://post.smzdm.com/p/a24mnm9p/)
 
+### 2025-04
+- [PyStand](https://github.com/skywind3000/PyStand)
+- [xmake](https://github.com/xmake-io/xmake/blob/dev/README_zh.md)
+- [Digital IDE](https://nc-ai.cn/article/cxnqr517/)
+- [appteka](https://pan.quark.cn/s/32ac198b53ae)
+- [Lucky 使用指南](https://lucky666.cn/docs/intro)
+- [酷家乐](https://b.kujiale.com/product/brick-design)
+
+### 2025-05
+- [MetaTube](https://metatube-community.github.io/wiki/plugin-installation)
+- [docker port viewer](https://laosu.tech/2025/04/19/Docker%E5%BA%94%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%9F%A5%E7%9C%8B%E5%99%A8docker-port-viewer)
+- [OneNVR](https://laosu.tech/2025/04/16/%E8%BD%BB%E9%87%8F%E7%BA%A7%E7%9A%84%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%BD%95%E5%83%8F%E6%9C%BAOneNVR/)
+- [double-itv-plus](https://www.miandrui.com/blog/a_iptv_source_in_china/)
+- [easy-itv](https://laosu.tech/2025/03/26/%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8%E7%9A%84itv%E6%BA%90easy-itv)
+- [618-洗碗机选购](https://zhuanlan.zhihu.com/p/1905571164765529051)
+- Power shell指令：disable-mmagent -mc
+
+### 2025-07
+- [IPTV](https://zhuanlan.zhihu.com/p/1924517018595461119)
+- [ChatDOC PDF to markdown](https://hf-mirror.com/ChatDOC/OCRFlux-3B)
+
+### 2025-08
+- [PhET科学模拟](https://phet.colorado.edu/)
+
+### 2025-09
+- [TOSA](https://github.com/jerryzhao173985/TOSA)
+- [gtags](https://zhuanlan.zhihu.com/p/36279445)
+- [ocr](https://dotsocr.xiaohongshu.com/)
+
+### 2025-10
+- [FastFlowLM](https://www.iruanp.com/posts/2025/run-llm-locally-with-amd-ryzen-npu/)
+
+### 2025-11
+- [Xilinx MLIR](https://github.com/Xilinx/mlir-aie/)
+- [Xilinx aie llvm](https://github.com/Xilinx/llvm-aie)
+- [Xilinx aie-ml hardware](https://docs.amd.com/r/en-US/am020-versal-aie-ml/Finding-Additional-Documentation)
+- [Trace tool](https://ui.perfetto.dev/)
+
+### 2025-12
+- [Virgo ASPLOS'25](https://zenodo.org/records/14835069)
+
+### 2026-02
+- [极客湾手机测试被删除视频](https://pan.quark.cn/s/8d35e445caaf)
+- [ispy 视频监控软件](https://www.ispyconnect.com/zh-cn/download)
+- [飞牛NAS搭配EasyNVR，AgentDVR监控新体验](https://post.smzdm.com/p/a0z64448/)
+
+### 2026-03
+- [AMD 8845HS](https://dreamscaperia.cn/1947/2025/05/23/%E5%9C%A8amd-8845hs%E4%B8%8A%E8%B7%91llm-slm%EF%BC%88%E5%9F%BA%E4%BA%8Enpu%EF%BC%89/)
+- [Free AI (Groq)](https://getfreeai.net/zh-cn/providers/groq/)
+- [编程农场](https://thefarmerwasreplaced.com/zh/tutorial/)
+
+### 2026-04
+- [Cloudflare 免费外网访问](https://zhuanlan.zhihu.com/p/2028027399862777347)
 
 [[your-first-note|Back to Main]]

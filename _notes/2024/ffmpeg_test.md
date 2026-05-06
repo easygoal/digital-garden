@@ -182,6 +182,9 @@ ffmpeg -hwaccel cuda -c:v hevc_cuvid -ss 400 -i input.mp4 -f image2 -r 1 -c:v mj
 
 frame=  118 fps=2.4 q=2.0 Lsize=N/A time=00:01:58.00 bitrate=N/A dup=0 drop=6848 speed=2.39x
 ```
-There is around 95% utilization on GPU 3D Engine, 30% on Video Decode engine and 90% on CPU.
+There is around 95% utilization on GPU 3D Engine, 30% on Video Decode engine and 90% on CPU.dddddddddd
+
+[ffmpeg scdet (scene detect)](https://zhuanlan.zhihu.com/p/1977873152802582818)
+
 
 [[your-first-note|Back to Main]]
