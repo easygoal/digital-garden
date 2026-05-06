@@ -59,6 +59,7 @@ scoop install imageglass
 pip install img2pdf
 pip install HwCodecDetect
 pip install wavedrom
+pip install you-get
 npm i wavedrom-cli -g
 
 scoop install rustup

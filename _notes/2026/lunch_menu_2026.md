@@ -56,12 +56,18 @@ Week 17 (4.20-4.24)
 
 Week 18 (4.27-4.30)
 <img src="{{ site.baseurl }}/assets/img/2026/lunch-26-w18.webp"/>
-![W17](lunch-26-w18.webp)
+![W18](lunch-26-w18.webp)
 [新普陀小学第九周菜单（4.27-4.30）](https://mp.weixin.qq.com/s/QdnAuJjfnSLIvgHWS7LKmw)
+
+Week 19 (5.6-5.9)
+<img src="{{ site.baseurl }}/assets/img/2026/lunch-26-w19.webp"/>
+![W19](lunch-26-w19.webp)
+[新普陀小学第十周菜单（5.6-5.9）](https://mp.weixin.qq.com/s/8G-V31Ltfv6P7xQOQ-DQ4Q)
 
 
 
 [[Lunch Menu 2024|Lunch Menu 2024]]
+
 [[Lunch Menu 2025|Lunch Menu 2025]]
 
 [[your-first-note|Back to Main]]
