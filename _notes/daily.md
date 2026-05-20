@@ -141,4 +141,14 @@ title: daily
 ### 2026-04
 - [Cloudflare 免费外网访问](https://zhuanlan.zhihu.com/p/2028027399862777347)
 
+### 2026-05
+- [Dhizuku](https://github.com/iamr0s/Dhizuku/discussions/16)
+- [Awesome shizuku](https://github.com/timschneeb/awesom-shizuku)
+- [Shizuku list](https://github.com/UrkeJH/ShizukuDhizuku-list)
+- [AudioMuse-AI](https://neptunehub.github.io/AudioMuse-AI)
+  - [Docker](https://github.com/NeptuneHub/AudioMuse-AI)
+
+
+
+
 [[your-first-note|Back to Main]]

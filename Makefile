@@ -10,3 +10,6 @@ image:
 docker:
 	docker exec hexo sh -c "make -C digital-garden"
 
+check:
+	find . -name ".hist" | xargs ls
+

@@ -186,5 +186,11 @@ There is around 95% utilization on GPU 3D Engine, 30% on Video Decode engine and
 
 [ffmpeg scdet (scene detect)](https://zhuanlan.zhihu.com/p/1977873152802582818)
 
+# 常用 ffmpeg 命令
+
+只删除 mkv 流 #0:1, 其他流均保留
+```bash
+ffmpeg -i input.mkv -map 0 -map -0:1 -c copy output.mkv
+```
 
 [[your-first-note|Back to Main]]

@@ -15,7 +15,7 @@ title: scoop 软件包
 3. 自定义安装路径: `` $env:SCOOP=`C:\scoop` ``
 4. 执行安装脚本: ``iwr -useb get.scoop.sh | iex``
 5. ``scoop update``
-6. 切换国内镜像: ``scoop config SCOOP_REPO https://gitee.com/scoop-installer/scoop``
+6. 切换国内镜像: ``scoop config SCOOP_REPO https://mirror.nju.edu.cn/git/scoop.git``
 7. 切换官方镜像: ``scoop config SCOOP_REPO https://github.com/ScoopInstaller/Scoop``
 
 ## 使用

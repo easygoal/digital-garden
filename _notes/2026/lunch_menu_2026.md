@@ -64,6 +64,16 @@ Week 19 (5.6-5.9)
 ![W19](lunch-26-w19.webp)
 [新普陀小学第十周菜单（5.6-5.9）](https://mp.weixin.qq.com/s/8G-V31Ltfv6P7xQOQ-DQ4Q)
 
+Week 20 (5.11-5.15)
+<img src="{{ site.baseurl }}/assets/img/2026/lunch-26-w20.webp"/>
+![W20](lunch-26-w20.webp)
+[新普陀小学第十一周菜单（5.11-5.15）](https://mp.weixin.qq.com/s/Wg2PZ67Uk1DonqN1hA_bJA)
+
+Week 21 (5.18-5.22)
+<img src="{{ site.baseurl }}/assets/img/2026/lunch-26-w21.webp"/>
+![W21](lunch-26-w21.webp)
+[新普陀小学第十二周菜单（5.18-5.22）](https://mp.weixin.qq.com/s/k2XMg7UCjd4oMl8FGwcOxg)
+
 
 
 [[Lunch Menu 2024|Lunch Menu 2024]]
